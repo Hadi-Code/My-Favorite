@@ -1,0 +1,10 @@
+h1{
+text-shadow: 2px 2px #7EF9FF;
+font-size: 20px;
+}
+body{
+text-align: center;
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(7,249,91,1) 100%);
+background-repeat: no-repeat;
+}
